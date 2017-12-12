@@ -1,0 +1,126 @@
+1 0000513 William_H._Macy(William Hall Macy Jr) is similar with William_Macy
+
+2 0000703 BD_Wong(Bradley Darryl BD Wong) is similar with Bernice_Wong
+
+3 0002253 John_Carroll_Lynch is similar with John_Lynch
+
+C:\ProgramData\Anaconda3\lib\site-packages\bs4\__init__.py:181: UserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("lxml"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+
+The code that caused this warning is on line 38 of the file .\overlap_remove.py. To get rid of this warning, change code that looks like this:
+
+ BeautifulSoup([your markup])
+
+to this:
+
+ BeautifulSoup([your markup], "lxml")
+
+  markup_type=markup_type))
+4 0003777 J._Ben_Sykes is similar with S_Jayakumar(Shunmugam Jayakumar)
+
+5 0003888 J.A._Steel(JA Steel) is similar with S_Jayakumar(Shunmugam Jayakumar)
+
+6 0004539 Vanessa_Williams is the same with Vanessa_Williams
+
+7 0004763 Mary_J._Blige(Mary Jane Blige) is similar with Mary_Blige
+
+8 0004897 John_Enos_III(John Enos III) is similar with John_Paul_II(Pope Saint John Paul II)
+
+9 0004923 Vitamin_C is similar with Charles_Chandler_IV
+
+10 0004943 Warren_G.(Warren Griffin III) is similar with Warren_Granados
+
+11 0005009 Laura_Harring is similar with Laura_Elena_Harring
+
+12 0005082 David_E._Kelley(David Edward Kelley) is similar with David_Kelley
+
+13 0005112 LL_Cool_J(James Todd Smith) is similar with Jack_LaLanne
+
+14 0005172 Norm_MacDonald is the same with Norm_Macdonald
+
+15 0006246 A.R._Rahman(AllahRakha Rahman) is similar with Abdul_Rahman
+
+16 0071304 H._Jon_Benjamin(Harry Jon Benjamin) is similar with BJ_Habibie(Bacharuddin Jusuf Habibie)
+
+17 0124920 G._Larry_Butler is similar with Gerard_Butler
+
+18 0142286 D.J._Caruso(Daniel John D J Caruso Jr) is similar with David_Caruso
+
+19 0166921 Hillary_Clinton is the same with Hillary_Clinton
+
+20 0202835 BJ_Davis is similar with Ben_Davis
+
+21 0202835 BJ_Davis is similar with Butch_Davis
+
+22 0208962 Wanda_De_Jesus is similar with Wanda_de_la_Jesus
+
+23 0235966 John_Downey_III is similar with John_Paul_II(Pope Saint John Paul II)
+
+24 0430107 Michael_B._Jordan(Michael Bakari Jordan) is similar with Michael_Jordan
+
+25 0496934 C.S._Lee(Charlie S Lee) is similar with Lee_Chang-dong
+
+26 0553436 A_Martinez(Adolfo Larrue Mart¨ªnez III) is similar with Abner_Martinez
+
+27 0589114 P._David_Miller is similar with Penelope_Ann_Miller
+
+28 0662519 Nicole_Ari_Parker is similar with Nicole_Parker
+
+29 0724124 J._August_Richards(Jaime Augusto Richards III) is similar with Jody_Richards
+
+30 0724124 J._August_Richards(Jaime Augusto Richards III) is similar with John_Paul_II(Pope Saint John Paul II)
+
+31 0753526 RZA(Robert Fitzgerald Diggs) is similar with Abdul_Rahman
+
+32 0776090 J._Neil_Schulman(Joseph Neil Schulman) is similar with S_Jayakumar(Shunmugam Jayakumar)
+
+33 0799777 J.K._Simmons(Jonathan Kimble J K Simmons) is similar with S_Jayakumar(Shunmugam Jayakumar)
+
+34 0807332 Anna_Deavere_Smith is similar with Anna_Nicole_Smith
+
+35 0919117 Michael_T._Weiss(Michael Terry Weiss) is similar with Michael_Weiss
+
+36 0955471 Ziyi_Zhang is similar with Zhang_Ziyi
+
+37 1053530 Tom_Ford is similar with TJ_Ford(Terrance Jerod T J Ford)
+
+38 1056413 Prince_William is the same with Prince_William
+
+39 1091782 Ye_Liu is similar with Liu_Ye
+
+40 1111200 Charles_Venn is similar with Charles_Chandler_IV
+
+41 1193098 Randy_Jackson is the same with Randy_Jackson
+
+42 1224179 Beckie_King is similar with BB_King(Riley B King)
+
+43 1303492 Jesse_James is the same with Jesse_James
+
+44 1324774 Jerry_G._Angelo(Jerry Angelo) is similar with Jerry_Angelo
+
+45 1356578 J.B._Smoove(Jerry Angelo Brooks) is similar with S_Jayakumar(Shunmugam Jayakumar)
+
+46 1471089 Jamie_Thomas_King is similar with Jamie_King
+
+47 1622954 DJ_AM(DJ AM) is similar with Dan_Monson
+
+48 1851640 JT_Alexander(J Alexander) is similar with Jason_Alexander
+
+49 1939267 T.I.(Clifford Joseph Harris Jr) is similar with Takaloo
+
+50 2318385 A.J._Carter(A J Carter) is similar with Anthony_Carter
+
+51 2322894 Michael_Foster is similar with Michael_Smith_Foster
+
+52 2425974 John_Clint_Mabry is similar with John_Mabry
+
+53 2482481 James_C._Morris(James J) is similar with James_Morris
+
+54 2554352 T.J._Miller(Todd Joseph TJ Miller) is similar with Tom_Miller
+
+55 2565613 Charles_Lewis_III is similar with Charles_Ingram
+
+56 3478560 Richard_A._Cohen(Richard A Cohen) is similar with Richard_Cohen
+
+57 3610327 Charles_Vandervaart is similar with Charles_Chandler_IV
+
+58 3956954 T.C._Stallings is similar with SJ_Twu(S J Tucker)
