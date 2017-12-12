@@ -1,4 +1,3 @@
-Class_ID, Name, Sample_Num, Flag
 n000001, "14th_Dalai_Lama", 424, 0
 n000002, "A_Fine_Frenzy", 315, 1
 n000003, "A._A._Gill", 205, 1
@@ -8,6 +7,8 @@ n000006, "A._R._Rahman", 485, 1
 n000007, "A._Raja", 259, 1
 n000008, "AB_de_Villiers", 273, 1
 n000009, "AYAMI", 136, 0
+n000009, "Ayami Kojima", 136, 0
+n000010, "Aamani", 156, 1
 n000010, "Aamani", 156, 1
 n000011, "Aamna_Sharif", 380, 1
 n000012, "Aaron_Ashmore", 382, 1
@@ -123,6 +124,7 @@ n000121, "Agustin_Creevy", 349, 1
 n000122, "Agustin_Orion", 365, 1
 n000123, "Agustin_Pichot", 316, 1
 n000124, "Ahlam", 310, 1
+n000124, "Ahlam Ali Al Shamsi", 310, 1
 n000125, "Ahmad_Haidar", 186, 1
 n000126, "Ahmad_Zahid_Hamidi", 429, 1
 n000127, "Ahmed_Elmohamady", 271, 1
@@ -205,6 +207,7 @@ n000206, "Aldo_Rebelo", 368, 1
 n000207, "Aldo_de_Nigris", 386, 1
 n000208, "Alec_Burks", 276, 1
 n000209, "Alecsandro", 363, 1
+n000209, "Alecsandro Barbosa Felisbino", 363, 1
 n000210, "Alejandra_Barros", 279, 1
 n000211, "Alejandro_Chaban", 333, 1
 n000212, "Alejandro_Escovedo", 312, 1
@@ -388,6 +391,7 @@ n000389, "Amar_Ghoul", 255, 1
 n000390, "Amar_Osim", 205, 1
 n000391, "Amare_Stoudemire", 425, 1
 n000392, "Amauri", 353, 1
+n000392, "Amauri Carvalho de Oliveira", 353, 1
 n000393, "Amaury_Vassili", 332, 1
 n000394, "Amber_Brkich", 242, 0
 n000395, "Amber_Heard", 605, 1
@@ -401,6 +405,7 @@ n000402, "Amelia_Vega", 351, 1
 n000403, "Amelle_Berrabah", 495, 1
 n000405, "America_Olivo", 404, 1
 n000406, "Amerie", 434, 1
+n000406, "Ameriie Mi Marie Rogers", 434, 1
 n000407, "Ami_James", 304, 1
 n000408, "Ami_Trivedi", 275, 1
 n000409, "Amien_Rais", 362, 1
@@ -457,6 +462,7 @@ n000459, "Anand_Mahindra", 443, 1
 n000460, "Ananda_Lewis", 378, 1
 n000461, "Ananya", 341, 1
 n000462, "Anastacia", 455, 1
+n000462, "Anastacia Lyn Newkirk", 455, 1
 n000463, "Anastasia_Volochkova", 384, 1
 n000464, "Anastasia_Zampounidis", 373, 1
 n000465, "Anais_Demoustier", 436, 1
@@ -572,6 +578,7 @@ n000576, "Angela_Similea", 317, 1
 n000577, "Angela_Simmons", 631, 1
 n000578, "Angela_Yee", 406, 1
 n000579, "Angelababy", 481, 1
+n000579, "Angela Yeung Wing", 481, 1
 n000580, "Angelica_Bengtsson", 248, 1
 n000581, "Angelica_Celaya", 292, 1
 n000582, "Angelica_Panganiban", 391, 1
@@ -581,6 +588,7 @@ n000585, "Angelique_Morgan", 222, 1
 n000586, "Angelo_Mathews", 332, 1
 n000587, "Angelo_Scola", 429, 1
 n000588, "Angham", 329, 1
+n000588, "Angham Mohamed Ali Suleiman", 329, 1
 n000589, "Angie_Cepeda", 393, 1
 n000590, "Angie_Chiu", 287, 1
 n000591, "Angie_Everhart", 443, 1
@@ -602,6 +610,7 @@ n000606, "Anita_Sokolowska", 541, 1
 n000607, "Anita_Wlodarczyk", 408, 1
 n000608, "Anja_Kling", 360, 1
 n000609, "Anjala_Zaveri", 241, 1
+n000610, "Anjali", 363, 1
 n000610, "Anjali", 363, 1
 n000611, "Anjana_Sukhani", 386, 1
 n000612, "Anjelah_Johnson", 300, 1
@@ -1010,6 +1019,7 @@ n001019, "Besir_Atalay", 467, 1
 n001021, "Bhairvi_Goswami", 219, 0
 n001023, "Bhakti_Charu_Swami", 204, 1
 n001024, "Bhama", 470, 1
+n001024, "Rekitha Rajendra Kurup", 470, 1
 n001025, "Bhavana_Menon", 535, 1
 n001026, "Bhumika_Chawla", 497, 1
 n001027, "Biagio_Antonacci", 335, 1
@@ -1115,6 +1125,7 @@ n001127, "Bodhi_Elfman", 308, 0
 n001128, "Bodil_Jorgensen", 218, 1
 n001129, "Bodo_Ramelow", 484, 1
 n001130, "Boediono", 415, 1
+n001130, "Boediono", 415, 1
 n001131, "Boguslaw_Linda", 495, 1
 n001132, "Bohuslav_Sobotka", 547, 1
 n001133, "Bojan_Bogdanovic", 357, 1
@@ -1150,6 +1161,7 @@ n001162, "Bradley_Wiggins", 371, 1
 n001163, "Brady_Hoke", 386, 1
 n001164, "Brahim_Asloum", 334, 1
 n001165, "Brahmanandam", 447, 1
+n001165, "Brahmanandam Kanneganti", 447, 1
 n001166, "Branch_Warren", 274, 1
 n001167, "Brandan_Wright", 240, 1
 n001168, "Brando_Eaton", 283, 1
@@ -1281,10 +1293,12 @@ n001293, "Borje_Salming", 305, 0
 n001294, "Bulent_Arinc", 429, 1
 n001295, "C.C._DeVille", 318, 1
 n001296, "C.C.Catch", 303, 0
+n001296, "C C Catch", 303, 0
 n001297, "CJ_Gibson", 221, 1
 n001298, "CM_Punk", 390, 1
 n001299, "Caca_Bueno", 237, 0
 n001300, "Cafu", 318, 1
+n001300, "Marcos Evangelista de Morais", 318, 1
 n001301, "Cain_Velasquez", 420, 1
 n001302, "Caio_Ribeiro", 324, 0
 n001303, "Caissie_Levy", 320, 0
@@ -1306,6 +1320,7 @@ n001319, "Camilla_Rosso", 581, 1
 n001320, "Camilla_Rutherford", 375, 1
 n001321, "Camilla_Thulin", 275, 1
 n001322, "Camilla,_Duchess_of_Cornwall", 513, 1
+n001322, "Camilla Duchess of Cornwall GCVO CSM PC",_Duchess_of_Cornwall", 513, 1
 n001323, "Camille_Anderson", 341, 1
 n001325, "Camille_Lacourt", 400, 1
 n001326, "Camille_Muffat", 315, 1
@@ -1411,6 +1426,7 @@ n001425, "Caroline_Trentini", 460, 1
 n001426, "Caroline_Wensink", 224, 1
 n001427, "Caroline_af_Ugglas", 296, 1
 n001428, "Caroline,_Princess_of_Hanover", 437, 1
+n001428, "Carolin may refer toGiven nameSurnam",_Princess_of_Hanover", 437, 1
 n001429, "Carolyn_McCall", 261, 1
 n001430, "Carolyn_Murphy", 455, 1
 n001431, "Carrie_Bickmore", 425, 1
@@ -1426,6 +1442,7 @@ n001440, "Carsten_Spengemann", 290, 1
 n001441, "Carter_Oosterhouse", 374, 1
 n001442, "Carwyn_Jones", 493, 1
 n001443, "Casemiro", 356, 1
+n001443, "Carlos Henrique Casimiro", 356, 1
 n001444, "Casey_LaBow", 289, 1
 n001445, "Casey_Reinhardt", 230, 1
 n001446, "Cash_Warren", 395, 0
@@ -1454,6 +1471,7 @@ n001468, "Catt_Sadler", 417, 1
 n001469, "Cayetano_Rivera_Ordonez", 481, 1
 n001470, "Cayo_Lara", 481, 1
 n001471, "Cazwell", 349, 1
+n001471, "Luke Caswell", 349, 1
 n001472, "Cecile_Richards", 309, 1
 n001473, "Cecilia_Bolocco", 226, 1
 n001474, "Cecilia_Braekhus", 400, 1
@@ -1555,10 +1573,12 @@ n001572, "Chiaki_Kuriyama", 322, 1
 n001573, "Chiara_Francini", 417, 1
 n001574, "Chico_Cesar", 261, 1
 n001575, "Chicao", 201, 1
+n001575, "Francisco Jezuíno Avanzi", 201, 1
 n001576, "Chin_Ka-lok", 204, 0
 n001577, "China_Moses", 287, 1
 n001578, "Chip_Kelly", 413, 1
 n001579, "Chiranjeevi", 425, 1
+n001579, "Konidela Siva Sankara Vara Prasad", 425, 1
 n001580, "Chitrashi_Rawat", 325, 1
 n001581, "Chloe_Madeley", 229, 1
 n001582, "Chloe_Sims", 483, 1
@@ -1672,6 +1692,7 @@ n001690, "Chuka_Umunna", 395, 1
 n001691, "Chyler_Leigh", 336, 1
 n001692, "Cian_Healy", 401, 1
 n001693, "Ciara", 584, 1
+n001693, "Ciara Princess Harris", 584, 1
 n001694, "Ciaran_Hinds", 410, 1
 n001695, "Cindy_Margolis", 467, 1
 n001696, "Cinta_Laura", 376, 1
@@ -1736,6 +1757,7 @@ n001754, "Clive_Standen", 426, 1
 n001755, "Clonie_Gowen", 149, 1
 n001756, "Clotilde_Hesme", 269, 1
 n001757, "Clueso", 404, 1
+n001757, "Thomas Hübner", 404, 1
 n001758, "Claudio_Hummes", 222, 1
 n001759, "Clemence_Poesy", 631, 1
 n001760, "Clementine_Celarie", 361, 1
@@ -1842,7 +1864,9 @@ n001861, "DJ_Qualls", 360, 1
 n001862, "DJ_Tarkan", 177, 1
 n001863, "Da_Brat", 366, 1
 n001864, "Daesung", 281, 1
+n001864, "Kang Daesung", 281, 1
 n001865, "Daffney", 304, 1
+n001865, "Shannon Claire Spruill", 304, 1
 n001866, "Dafne_Fernandez", 456, 1
 n001867, "Dag_Otto_Lauritzen", 231, 1
 n001868, "Dagmar_Koller", 378, 1
@@ -1956,6 +1980,7 @@ n001976, "Danson_Tang", 440, 0
 n001978, "Dany_Brillant", 306, 1
 n001979, "Daphne_Guinness", 453, 1
 n001980, "Dappy", 476, 1
+n001980, "Costadinos Contostavlos", 476, 1
 n001981, "Dara_Bubamara", 323, 1
 n001982, "Darian_Alvarez", 309, 1
 n001983, "Darinko_Kosor", 303, 1
@@ -2050,6 +2075,7 @@ n002073, "Dayle_Haddon", 298, 1
 n002074, "Daymond_John", 447, 1
 n002075, "Dayro_Moreno", 257, 1
 n002076, "Dbanj", 446, 1
+n002076, "Oladapo Daniel Oyebanjo", 446, 1
 n002077, "DeMar_DeRozan", 444, 1
 n002078, "Dean_DeBlois", 312, 1
 n002079, "Dean_Heller", 199, 1
@@ -2132,11 +2158,13 @@ n002155, "Dev_Patel", 505, 1
 n002156, "Deval_Patrick", 430, 1
 n002157, "Devanny_Pinn", 218, 1
 n002158, "Devayani", 327, 0
+n002158, "In Hindu mythology Devayani", 327, 0
 n002159, "Devin_Mesoraco", 215, 1
 n002160, "Devlet_Bahceli", 539, 1
 n002161, "Devon_Alexander", 353, 1
 n002162, "Devon_Sawa", 380, 1
 n002163, "Dhanush", 448, 1
+n002163, "Venkatesh Prabhu", 448, 1
 n002164, "Dhanya_Mary_Varghese", 229, 1
 n002165, "Dia_Mirza", 648, 1
 n002166, "Dian_Parkinson", 158, 0
@@ -2149,6 +2177,7 @@ n002172, "Diana_Haddad", 384, 1
 n002173, "Diana_Krall", 326, 1
 n002174, "Diana_Penty", 438, 1
 n002175, "Diana,_Princess_of_Wales", 444, 1
+n002175, "Dian may refer t",_Princess_of_Wales", 444, 1
 n002176, "Diandra_Soares", 347, 1
 n002177, "Diane_Baker", 309, 1
 n002178, "Diane_Lane", 493, 1
@@ -2160,6 +2189,7 @@ n002184, "Dick_Rivers", 264, 1
 n002185, "Dick_Vitale", 326, 1
 n002186, "Dick_Wolf", 295, 1
 n002187, "Diddy", 520, 1
+n002187, "Diddy may refer t", 520, 1
 n002188, "Didier_Deschamps", 444, 1
 n002189, "Didier_Drogba", 459, 1
 n002190, "Diego_Abatantuono", 353, 1
@@ -2188,6 +2218,7 @@ n002212, "Digby_Ioane", 402, 1
 n002213, "Digvijay_Singh", 307, 1
 n002214, "Dikembe_Mutombo", 272, 1
 n002215, "Dileep", 429, 1
+n002215, "Dileep may refer t", 429, 1
 n002216, "Dilip_Vengsarkar", 336, 0
 n002217, "Dimitris_Diamantidis", 322, 1
 n002218, "Dimple_Jhangiani", 264, 1
@@ -2208,6 +2239,7 @@ n002232, "Dirk_Kuyt", 489, 1
 n002233, "Dirk_Nowitzki", 477, 1
 n002234, "Dirk_Schuster", 319, 1
 n002235, "Disiz", 303, 1
+n002235, "Sérigne MBaye Gueye", 303, 1
 n002236, "Dita_de_Leon", 212, 1
 n002237, "Divya_Bharti", 367, 1
 n002238, "Divya_Khosla", 518, 1
@@ -2267,7 +2299,9 @@ n002292, "Dogu_Perincek", 485, 1
 n002293, "Dragan_Covic", 436, 1
 n002294, "Dragan_Sutanovac", 366, 1
 n002295, "Drake", 375, 1
+n002295, "Drake may refer t", 375, 1
 n002296, "Dravid", 263, 1
+n002296, "Dravidian or Dravida may refer t", 263, 1
 n002297, "Dree_Hemingway", 564, 1
 n002298, "Drew_Barrymore", 546, 1
 n002299, "Drew_Pinsky", 438, 1
@@ -2280,6 +2314,7 @@ n002305, "Duff_McKagan", 458, 1
 n002306, "Dumitru_Dragomir", 245, 1
 n002307, "Duncan_Keith", 279, 1
 n002308, "Dunga", 358, 1
+n002308, "Carlos Caetano Bledorn Verri", 358, 1
 n002309, "Durga_Jasraj", 229, 0
 n002310, "Dustin_Hoffman", 456, 1
 n002311, "Dustin_Johnson", 330, 1
@@ -2358,6 +2393,7 @@ n002383, "Eduardo_Verastegui", 530, 1
 n002384, "Eduardo_Yanez", 210, 0
 n002386, "Eduardo_Zaplana", 287, 1
 n002387, "Edurne", 467, 1
+n002387, "Edurne García Almagro", 467, 1
 n002388, "Edward_Burns", 421, 1
 n002389, "Edward_Furlong", 472, 0
 n002390, "Edward_Lowassa", 272, 1
@@ -2386,6 +2422,7 @@ n002412, "El_Gran_Wyoming", 378, 1
 n002413, "El_Hadji_Diouf", 324, 1
 n002414, "Elaine_Irwin_Mellencamp", 228, 0
 n002415, "Elastinen", 268, 1
+n002415, "Kimmo Ilpo Juhani Laiho", 268, 1
 n002416, "Elba_Esther_Gordillo", 324, 1
 n002417, "Eldar_Ronning", 200, 1
 n002418, "Eleazar_Gomez", 318, 1
@@ -2611,6 +2648,7 @@ n002641, "Eugenie_Bouchard", 426, 1
 n002642, "Eugenio_Finardi", 254, 1
 n002643, "Eugenio_Mena", 307, 1
 n002644, "Eunhyuk", 692, 1
+n002644, "Lee Hyukjae", 692, 1
 n002645, "Eurico_Miranda", 326, 1
 n002646, "Eusebio_Di_Francesco", 356, 1
 n002647, "Eva_Ayllon", 378, 0
@@ -2688,6 +2726,7 @@ n002719, "Fahriye_Evcen", 448, 1
 n002720, "Faith_Evans", 442, 1
 n002721, "Faith_Prince", 210, 1
 n002722, "Falete", 314, 1
+n002722, "Rafael Ojeda Rojas alias Falete", 314, 1
 n002723, "Famke_Janssen", 505, 1
 n002724, "Fan_Bingbing", 522, 1
 n002725, "Fann_Wong", 406, 1
@@ -2697,6 +2736,7 @@ n002728, "Fara_Williams", 279, 1
 n002729, "Farah_Fath", 373, 1
 n002730, "Fardeen_Khan", 467, 1
 n002731, "Fargetta", 219, 1
+n002731, "Mario Fargetta", 219, 1
 n002732, "Farhan_Akhtar", 532, 1
 n002733, "Farin_Urlaub", 311, 1
 n002734, "Faris_Al-Sultan", 252, 1
@@ -2756,6 +2796,7 @@ n002788, "Fernando_San_Emeterio", 279, 1
 n002789, "Fernando_Torres", 551, 1
 n002790, "Fernando_de_la_Rua", 245, 1
 n002791, "Fernandao", 187, 1
+n002791, "Fernando Lúcio da Costa better known as Fernandão", 187, 1
 n002792, "Fethullah_Gulen", 430, 1
 n002793, "Feyyaz_Ucar", 102, 1
 n002794, "Fifi_Box", 326, 1
@@ -2914,6 +2955,7 @@ n002947, "Gabrielle_Union", 572, 1
 n002948, "Gabriele_Martirosianaite", 276, 1
 n002949, "Gaby_Koster", 307, 1
 n002950, "Gackt", 457, 1
+n002950, "Gackt Camui", 457, 1
 n002951, "Gagan_Narang", 277, 1
 n002952, "Gai_Waterhouse", 352, 1
 n002953, "Gail_Kelly", 248, 1
@@ -2928,6 +2970,7 @@ n002961, "Garchen_Rinpoche", 201, 1
 n002962, "Gareth_Barry", 424, 1
 n002963, "Gareth_Gates", 489, 1
 n002964, "Garou", 240, 1
+n002964, "Garou may refer t", 240, 1
 n002965, "Garrett_Neff", 461, 1
 n002966, "Garry_Monk", 397, 1
 n002967, "Garth_Brooks", 380, 1
@@ -3020,6 +3063,7 @@ n003054, "Gerry_Scotti", 362, 1
 n003055, "Gertjan_Verbeek", 435, 1
 n003056, "Gervais_Martel", 275, 1
 n003057, "Gervinho", 322, 1
+n003057, "Gervais Lombe Yao Kouassi", 322, 1
 n003058, "Gesine_Schwan", 401, 1
 n003059, "Ghita_Norby", 310, 1
 n003060, "Gia_Carangi", 312, 1
@@ -3042,6 +3086,7 @@ n003076, "Gianni_Alemanno", 541, 1
 n003077, "Gianni_Infantino", 320, 1
 n003078, "Giedo_van_der_Garde", 332, 1
 n003079, "Giggs", 276, 0
+n003079, "Giggs may refer t", 276, 0
 n003080, "Gigi_DAlessio", 353, 1
 n003081, "Gigi_Ravelli", 257, 1
 n003082, "Gigliola_Cinquetti", 314, 1
@@ -3119,6 +3164,7 @@ n003154, "Go_Hyun-jung", 408, 1
 n003155, "Go_Shiozaki", 436, 1
 n003156, "Go_Soeda", 192, 1
 n003157, "Goapele", 356, 1
+n003157, "Goapele Mohlabane", 356, 1
 n003158, "Goca_Bozinovska", 293, 1
 n003159, "Goca_Trzan", 409, 1
 n003160, "Goedele_Liekens", 260, 1
@@ -3135,12 +3181,15 @@ n003170, "Gonzalo_Higuain", 515, 1
 n003171, "Gonzalo_Jara", 320, 1
 n003172, "Gonzalo_Valenzuela", 340, 1
 n003173, "Gopichand", 391, 1
+n003173, "Gopichand or Gopi Chand can refer t", 391, 1
+n003174, "Gopika", 397, 1
 n003174, "Gopika", 397, 1
 n003175, "Goran_Karan", 308, 1
 n003176, "Goran_Pandev", 394, 1
 n003177, "Goran_Visnjic", 497, 1
 n003178, "Gordon_Strachan", 468, 1
 n003179, "Govinda", 474, 1
+n003179, "Gōvinda and Gopāla", 474, 1
 n003180, "Gowri_Munjal", 303, 1
 n003181, "Grace_Gummer", 561, 1
 n003182, "Grace_Hightower", 552, 1
@@ -3201,6 +3250,7 @@ n003237, "Guillermo_Ochoa", 388, 1
 n003238, "Gulnara_Karimova", 305, 1
 n003239, "Gulshan_Grover", 523, 1
 n003240, "Gulzar", 263, 1
+n003240, "1971–99", 263, 1
 n003241, "Gurdas_Maan", 435, 1
 n003242, "Gurmeet_Choudhary", 479, 1
 n003243, "Gurmeet_Ram_Rahim_Singh", 335, 1
@@ -3401,6 +3451,7 @@ n003438, "Hermann_Grohe", 434, 1
 n003439, "Hermes_Binner", 422, 1
 n003440, "Hermione_Norris", 367, 1
 n003441, "Hernane", 321, 1
+n003441, "Hernane Vidal de Souza", 321, 1
 n003442, "Herschelle_Gibbs", 217, 1
 n003443, "Herta_Muller", 385, 1
 n003444, "Herve_Mariton", 393, 1
@@ -3427,6 +3478,7 @@ n003464, "Hiroki_Aiba", 237, 1
 n003465, "Hiroshi_Tamaki", 387, 1
 n003466, "Hiten_Tejwani", 421, 1
 n003467, "Hitomi_Shimatani", 162, 1
+n003468, "Hizaki", 290, 0
 n003468, "Hizaki", 290, 0
 n003469, "Hoang_Phuc", 323, 1
 n003470, "Hoda_Kotb", 496, 1
@@ -3491,6 +3543,7 @@ n003529, "Ibrahim_Boubacar_Keita", 263, 1
 n003530, "Ibrahim_Lipumba", 202, 1
 n003531, "Ice_Cube", 446, 1
 n003532, "Ice-T", 443, 1
+n003532, "Tracy Lauren Marrow", 443, 1
 n003533, "Ichiro_Ozawa", 307, 1
 n003534, "Ida_Corr", 215, 1
 n003536, "Idan_Raichel", 210, 1
@@ -3699,6 +3752,7 @@ n003743, "Jalil_Lespert", 245, 1
 n003744, "Jamal_Crawford", 335, 1
 n003745, "Jameer_Nelson", 328, 1
 n003746, "Jamelia", 592, 1
+n003746, "Jamelia Niela Davis", 592, 1
 n003747, "James_Arthur", 418, 1
 n003748, "James_Brolin", 409, 1
 n003749, "James_Cameron", 345, 1
@@ -3845,10 +3899,13 @@ n003891, "Jay_Soni", 292, 1
 n003892, "Jay_Triano", 141, 1
 n003893, "Jay_Wright", 306, 1
 n003894, "Jay-Z", 433, 0
+n003894, "Shawn Corey Carter", 433, 0
 n003895, "Jaya_Prada", 555, 1
 n003896, "Jayalalithaa", 511, 0
+n003896, "Jayaram Jayalalithaaa", 511, 0
 n003897, "Jayam_Ravi", 541, 1
 n003898, "Jayapataka_Swami", 227, 1
+n003899, "Jayasurya", 444, 1
 n003899, "Jayasurya", 444, 1
 n003900, "Jayson_Werth", 331, 1
 n003901, "Jaz_Coleman", 249, 1
@@ -3895,6 +3952,7 @@ n003941, "Jeanine_Pirro", 425, 1
 n003942, "Jeanne_Mas", 298, 1
 n003943, "Jed_Madela", 376, 1
 n003944, "Jeeva", 414, 1
+n003944, "Jeeva may refer t", 414, 1
 n003945, "Jeff_Beck", 309, 1
 n003946, "Jeff_Bridges", 460, 1
 n003947, "Jeff_Buckley", 312, 1
@@ -4008,6 +4066,7 @@ n004055, "Jessiqa_Pace", 187, 1
 n004056, "Jessy_Mendiola", 422, 1
 n004057, "Jesualdo_Ferreira", 308, 1
 n004058, "Jese", 367, 1
+n004058, "Jesé Rodríguez Ruiz", 367, 1
 n004059, "Jesus_Adrian_Romero", 246, 1
 n004060, "Jesus_Murillo_Karam", 388, 1
 n004061, "Jesus_Navas", 486, 1
@@ -4265,6 +4324,7 @@ n004320, "Josef_Ackermann", 486, 1
 n004321, "Josefine_Preuss", 439, 1
 n004322, "Josefine_Oqvist", 241, 1
 n004323, "Josenid", 260, 1
+n004323, "Josenid", 260, 1
 n004324, "Josep_Antoni_Duran_i_Lleida", 448, 1
 n004325, "Joseph_Benavidez", 364, 1
 n004326, "Joseph_Calleja", 346, 1
@@ -4359,6 +4419,7 @@ n004416, "Juggan_Kazim", 406, 1
 n004417, "Juhani_Tamminen", 261, 1
 n004418, "Juhi_Chawla", 591, 1
 n004419, "Jujubee", 315, 1
+n004419, "Ziziphus jujuba", 315, 1
 n004420, "Jules_Bianchi", 367, 1
 n004421, "Juli_Inkster", 319, 1
 n004422, "Julia_Gillard", 582, 1
@@ -4430,6 +4491,7 @@ n004487, "Justine_Greening", 498, 1
 n004488, "Justine_Henin", 493, 1
 n004489, "Jwala_Gutta", 515, 1
 n004490, "Jyothika", 553, 1
+n004490, "1997–2009Jyothika Saravanan", 553, 1
 n004491, "Jyoti_Amge", 331, 1
 n004492, "Jyrki_69", 353, 1
 n004493, "Jyrki_Katainen", 516, 1
@@ -4453,9 +4515,11 @@ n004510, "Jurgen_Trittin", 576, 1
 n004511, "Jurgen_Vogel", 481, 1
 n004512, "Jurgen_von_der_Lippe", 406, 1
 n004513, "K-Maro", 249, 1
+n004513, "Cyril Kamar", 249, 1
 n004514, "K._J._Choi", 281, 1
 n004515, "KC_Concepcion", 426, 1
 n004516, "KRS-One", 327, 1
+n004516, "Lawrence Kris Parker", 327, 1
 n004517, "KT_Tunstall", 433, 1
 n004518, "Kabir_Bedi", 425, 1
 n004519, "Kacey_Ainsworth", 252, 1
@@ -4468,6 +4532,7 @@ n004525, "Kailash_Kher", 444, 1
 n004526, "Kaisa_Makarainen", 300, 1
 n004527, "Kaitlin_Doubleday", 312, 1
 n004528, "Kajal_Aggarwal", 558, 1
+n004529, "Kajol", 321, 1
 n004529, "Kajol", 321, 1
 n004530, "Kakha_Kaladze", 334, 1
 n004531, "Kalidou_Koulibaly", 216, 1
@@ -4490,7 +4555,9 @@ n004547, "Kang_Dong-won", 363, 1
 n004548, "Kang_Ji-hwan", 474, 1
 n004549, "Kang_Ji-young", 513, 1
 n004550, "Kangin", 529, 1
+n004550, "Kim Youngwoon", 529, 1
 n004551, "Kangta", 362, 1
+n004551, "Ahn Chilhyun", 362, 1
 n004552, "Kaori_Momoi", 237, 1
 n004553, "Kapil_Sibal", 438, 1
 n004554, "Kara_DioGuardi", 383, 1
@@ -4538,6 +4605,7 @@ n004595, "Karolina_Nowakowska", 300, 1
 n004596, "Karrie_Webb", 292, 1
 n004597, "Karsten_Johansson", 381, 1
 n004598, "Karthi", 537, 1
+n004598, "Karthik Sivakumar", 537, 1
 n004599, "Karthika_Nair", 360, 1
 n004600, "Karun_Chandhok", 295, 1
 n004601, "Kasey_Kahne", 344, 1
@@ -4631,6 +4699,7 @@ n004690, "Keisuke_Honda", 421, 1
 n004691, "Keith_Jardine", 221, 1
 n004692, "Keith_Millen", 154, 1
 n004693, "Kelis", 541, 1
+n004693, "Kelis Rogers", 541, 1
 n004694, "Kelli_McCarty", 128, 1
 n004695, "Kellie_Pickler", 563, 1
 n004696, "Kellie_Shirley", 218, 1
@@ -4713,6 +4782,7 @@ n004773, "Ki_Sung-yueng", 507, 1
 n004774, "Kieran_Foran", 352, 1
 n004775, "Kieren_Fallon", 247, 1
 n004776, "Kieza", 279, 1
+n004776, "Welker Marçal de Almeida", 279, 1
 n004777, "Kiki_Bertens", 310, 1
 n004778, "Kiko_Casilla", 275, 1
 n004779, "Killer_Mike", 296, 1
@@ -4748,6 +4818,7 @@ n004812, "Kim_Tae-hoi", 372, 0
 n004813, "Kim_Wilde", 541, 0
 n004814, "Kim_You-sung", 268, 1
 n004816, "Kim-Lian", 305, 1
+n004816, "KimLian van der Meij", 305, 1
 n004817, "Kimberlee_Green", 209, 1
 n004818, "Kimberley_Davies", 285, 1
 n004819, "Kimberley_Locke", 365, 1
@@ -4781,6 +4852,7 @@ n004846, "Kirstie_Allsopp", 458, 1
 n004847, "Kirsty_Gallacher", 375, 1
 n004848, "Kirsty_Hume", 298, 1
 n004849, "Kissie", 399, 1
+n004849, "Alexandra Barbara Nilsson", 399, 1
 n004850, "Klaas_Heufer-Umlauf", 457, 0
 n004851, "Klaas-Jan_Huntelaar", 453, 1
 n004852, "Klara_Koukalova", 292, 1
@@ -4798,6 +4870,7 @@ n004863, "Koen_Verweij", 324, 1
 n004864, "Koharu_Kusumi", 393, 1
 n004865, "Koit_Toome", 269, 1
 n004866, "Koke", 354, 1
+n004866, "A kōke", 354, 1
 n004867, "Kolbeinn_Sigthorsson", 314, 1
 n004868, "Kolinda_Grabar-Kitarovic", 488, 1
 n004869, "Koncz_Zsuzsa", 342, 1
@@ -4820,6 +4893,7 @@ n004885, "Kris_Kristofferson", 377, 0
 n004886, "Kris_Lemche", 206, 1
 n004887, "Kris_Letang", 391, 1
 n004888, "Kris_Peeters", 521, 1
+n004889, "Krisdayanti", 557, 1
 n004889, "Krisdayanti", 557, 1
 n004890, "Krista_Kosonen", 249, 1
 n004891, "Krista_Lahteenmaki", 303, 0
@@ -5018,6 +5092,7 @@ n005086, "Lee_Young-ae", 530, 1
 n005087, "Leeann_Tweeden", 418, 1
 n005088, "Leena_Chandavarkar", 252, 0
 n005089, "Leeteuk", 696, 1
+n005089, "Park Jeongsu", 696, 1
 n005090, "Leeza_Gibbons", 376, 1
 n005091, "Leif_Ove_Andsnes", 233, 1
 n005092, "Leigh_Griffiths", 433, 1
@@ -5028,6 +5103,7 @@ n005096, "Leisha_Hailey", 335, 1
 n005097, "Lekha_Washington", 304, 1
 n005098, "Lela_Rochon", 384, 1
 n005099, "Lemmy", 308, 1
+n005099, "Ian Fraser Kilmister", 308, 1
 n005100, "Len_McCluskey", 269, 1
 n005101, "Len_Wiseman", 431, 0
 n005102, "Lena_Adelsohn_Liljeroth", 349, 1
@@ -5054,6 +5130,7 @@ n005122, "Leonard_Lansink", 358, 0
 n005123, "Leonardo_DiCaprio", 339, 0
 n005124, "Leonardo_Sbaraglia", 525, 1
 n005125, "Leonor,_Princess_of_Asturias", 650, 1
+n005125, "Leono",_Princess_of_Asturias", 650, 1
 n005126, "Leonora_Balcarce", 367, 1
 n005127, "Leonora_Jakupi", 324, 1
 n005128, "Leontien_van_Moorsel", 328, 1
@@ -5141,6 +5218,7 @@ n005212, "Lisa_Stansfield", 395, 1
 n005213, "Lisalla_Montenegro", 406, 1
 n005214, "Little_Freddie_King", 177, 1
 n005215, "Litzy", 305, 1
+n005215, "Litzy Vanya Domínguez Balderas", 305, 1
 n005216, "Liu_Yan", 323, 1
 n005217, "Liv_Boeree", 380, 1
 n005218, "Liv_Kristine", 343, 1
@@ -5390,12 +5468,14 @@ n005461, "Malvino_Salvador", 469, 1
 n005462, "Mamadou_Sakho", 285, 1
 n005463, "Mamed_Khalidov", 389, 1
 n005464, "Mammootty", 589, 1
+n005464, "Muhammad Kutty Ismail Paniparambil", 589, 1
 n005465, "Mamphela_Ramphele", 290, 1
 n005466, "Mamta_Kulkarni", 329, 1
 n005467, "Mamta_Mohandas", 406, 1
 n005468, "Manasvi_Mamgai", 394, 1
 n005469, "Manchu_Lakshmi_Prasanna", 445, 1
 n005470, "Manchu_Vishnu", 313, 1
+n005471, "Mancini", 398, 1
 n005471, "Mancini", 398, 1
 n005472, "Mandy_Cho", 180, 1
 n005473, "Mandy_Teefey", 461, 0
@@ -5426,6 +5506,7 @@ n005497, "Mane_de_la_Parra", 428, 1
 n005498, "Mapou_Yanga-Mbiwa", 267, 1
 n005499, "Mara_Maravilha", 390, 1
 n005500, "Marbelle", 218, 1
+n005500, "1996 – present MarriedRoyne Chávez", 218, 1
 n005501, "Marc_Bartra", 477, 1
 n005502, "Marc_Bergevin", 357, 1
 n005503, "Marc_Clotet", 360, 1
@@ -5766,6 +5847,7 @@ n005844, "Mauli_Dave", 176, 1
 n005845, "Maura_Rivera", 207, 1
 n005846, "Maura_Tierney", 399, 1
 n005847, "Maurane", 316, 1
+n005847, "Maurane", 316, 1
 n005848, "Maureen_Lipman", 366, 1
 n005849, "Maurice_Benard", 356, 1
 n005850, "Maurice_Levy", 374, 1
@@ -5808,6 +5890,7 @@ n005888, "May_J.", 326, 1
 n005889, "May_Mahlangu", 240, 1
 n005890, "Maya_Sansa", 363, 1
 n005891, "Mayawati", 477, 1
+n005891, "Mayawati Prabhu Das", 477, 1
 n005892, "Mayim_Bialik", 423, 1
 n005893, "Mayra_Aguiar", 209, 1
 n005894, "Mayte_Garcia", 299, 1
@@ -5855,6 +5938,7 @@ n005935, "Melanie_Bernier", 216, 1
 n005936, "Melanie_Olivares", 290, 1
 n005937, "Melanie_Sykes", 425, 1
 n005938, "Melendi", 452, 1
+n005938, "Ramón Melendi Espina", 452, 1
 n005939, "Melhem_Zein", 249, 1
 n005940, "Melih_Gokcek", 423, 1
 n005941, "Melinda_Messenger", 354, 1
@@ -5982,6 +6066,7 @@ n006065, "Michelle_Wie", 371, 1
 n006066, "Michiel_Huisman", 263, 1
 n006067, "Michiel_Kramer", 258, 1
 n006068, "Michu", 408, 1
+n006068, "Miguel Pérez Cuesta", 408, 1
 n006069, "Michele_Alliot-Marie", 473, 1
 n006070, "Michele_Delaunay", 338, 1
 n006071, "Michele_Torr", 259, 1
@@ -5995,6 +6080,7 @@ n006078, "Mickael_Landreau", 351, 1
 n006079, "Mickey_Harte", 384, 1
 n006080, "Micky_Hoogendijk", 213, 1
 n006081, "Mietta", 252, 1
+n006081, "Daniela Miglietta", 252, 1
 n006082, "Miguel_Cabrera", 209, 1
 n006083, "Miguel_Cotto", 265, 1
 n006084, "Miguel_Falabella", 345, 1
@@ -6070,6 +6156,7 @@ n006154, "Minna_Kauppi", 275, 1
 n006155, "Minnie_Driver", 403, 1
 n006156, "Minu_Barati", 474, 1
 n006157, "Minzy", 509, 1
+n006157, "Gong Minji", 509, 1
 n006158, "Mira_Sorvino", 234, 1
 n006159, "Mirai_Nagasu", 263, 1
 n006160, "Miranda_Otto", 456, 1
@@ -6102,6 +6189,7 @@ n006187, "Miroslava_Nemcova", 397, 1
 n006188, "Mirza_Teletovic", 321, 1
 n006189, "Misaki_Ito", 238, 1
 n006190, "Misbah-ul-Haq", 309, 1
+n006190, "MisbahulHaq Khan Niazi", 309, 1
 n006191, "Mishal_Raheja", 354, 1
 n006192, "Miss_Pooja", 332, 1
 n006193, "Missy_Elliott", 373, 1
@@ -6114,6 +6202,7 @@ n006199, "Mithali_Raj", 201, 1
 n006200, "Mithra_Kurian", 255, 1
 n006201, "Mixu_Paatelainen", 270, 1
 n006202, "Miz", 418, 1
+n006202, "Mizuki Watanabe", 418, 1
 n006203, "Mizuki_Fukumura", 331, 1
 n006204, "Misa_Molk", 234, 1
 n006205, "Mladen_Petric", 414, 1
@@ -6126,6 +6215,7 @@ n006211, "Mohammad_Ali", 249, 0
 n006212, "Mohammad_Hafeez", 265, 1
 n006213, "Mohammad_Mahfud", 213, 1
 n006214, "Mohanlal", 564, 1
+n006214, "Mohanlal Viswanathan Nair", 564, 1
 n006215, "Mohit_Chauhan", 153, 1
 n006216, "Mohit_Sehgal", 292, 1
 n006217, "Moises_Munoz", 332, 1
@@ -6149,6 +6239,7 @@ n006234, "Monica_Lewinsky", 361, 1
 n006235, "Monica_Lierhaus", 338, 1
 n006236, "Monica_Seles", 363, 1
 n006237, "Monifah", 233, 1
+n006237, "wwwthemonifahcomMonifah", 233, 1
 n006238, "Monika_Gruber", 386, 1
 n006239, "Monika_Jagaciak", 549, 1
 n006240, "Monika_Mrozowska", 469, 1
@@ -6219,6 +6310,7 @@ n006306, "Monica_Spear", 332, 1
 n006307, "Mujde_Ar", 329, 1
 n006308, "Muslum_Gurses", 368, 1
 n006309, "Mya", 215, 1
+n006309, "Mya may refer t", 215, 1
 n006310, "N._Chandrababu_Naidu", 485, 1
 n006311, "Nabih_Berri", 223, 1
 n006312, "Nabil_Dirar", 236, 1
@@ -6228,6 +6320,7 @@ n006315, "Nacho_Novo", 307, 1
 n006316, "Nacho_Vegas", 259, 1
 n006317, "Nadeshda_Brennicke", 359, 1
 n006318, "Nadhiya", 332, 1
+n006318, "Zareena Moidu", 332, 1
 n006319, "Nadine_Angerer", 384, 1
 n006320, "Nadine_Chandrawinata", 375, 1
 n006321, "Nadine_Dorries", 270, 1
@@ -6251,6 +6344,7 @@ n006338, "Najib_Amhali", 267, 1
 n006339, "Nakuul_Mehta", 389, 1
 n006340, "Namadi_Sambo", 378, 1
 n006341, "Namitha", 488, 1
+n006341, "httpswwwinstagramcomnamitaofficialNamitha", 488, 1
 n006342, "Namrata_Shirodkar", 374, 1
 n006343, "Nana_Mouskouri", 394, 1
 n006344, "Nana_Okada", 214, 1
@@ -6299,6 +6393,7 @@ n006386, "Natalie_Maines", 424, 1
 n006387, "Natalie_Tran", 202, 1
 n006388, "Natalie_du_Toit", 262, 1
 n006389, "Natalya", 338, 1
+n006389, "Natalya", 338, 1
 n006390, "Natasa_Ninkovic", 191, 1
 n006391, "Natascha_Ochsenknecht", 523, 1
 n006392, "Natasha_Alam", 474, 1
@@ -6335,16 +6430,19 @@ n006424, "Nawal_Al_Zoghbi", 492, 1
 n006425, "Nawal_El_Moutawakel", 230, 1
 n006426, "Naya_Rivera", 515, 1
 n006427, "Nayantara", 468, 1
+n006427, "Nayanthara", 468, 1
 n006428, "Nazan_Eckes", 343, 1
 n006429, "Nazem_Kadri", 287, 1
 n006430, "Nazia_Iqbal", 217, 1
 n006431, "Ne-Yo", 409, 1
+n006431, "Shaffer Chimere Smith", 409, 1
 n006432, "Nebojsa_Covic", 375, 1
 n006433, "Necar_Zadegan", 319, 1
 n006434, "Ned_Yost", 282, 1
 n006435, "Neelima_Rani", 223, 1
 n006436, "Neena_Gupta", 304, 1
 n006437, "Neetha_Shetty", 250, 1
+n006438, "Neethu", 228, 1
 n006438, "Neethu", 228, 1
 n006439, "Nefise_Karatay", 348, 1
 n006440, "Negar_Javaherian", 351, 1
@@ -6441,6 +6539,7 @@ n006531, "Nicolas_Maduro", 527, 0
 n006532, "Nicu_Paleru", 192, 0
 n006533, "Niels_Schneider", 265, 1
 n006534, "Nigahiga", 325, 1
+n006534, "Ryan Higa", 325, 1
 n006535, "Nigel_Adkins", 355, 1
 n006536, "Nigel_John_Taylor", 255, 1
 n006537, "Nigel_Kennedy", 338, 1
@@ -6474,6 +6573,7 @@ n006564, "Nikolay_Baskov", 478, 1
 n006565, "Nikolina_Pisek", 420, 1
 n006566, "Nikos_Aliagas", 442, 1
 n006567, "Nilmar", 334, 1
+n006567, "Nilmar Honorato da Silva", 334, 1
 n006568, "Nils_Petersen", 367, 1
 n006569, "Nimet_Bas", 233, 1
 n006570, "Nina_Badric", 484, 1
@@ -6506,6 +6606,7 @@ n006598, "Noelle_Pikus-Pace", 331, 1
 n006599, "Noelle_Reno", 418, 1
 n006600, "Nolan_Roux", 359, 1
 n006601, "Nolito", 331, 1
+n006601, "Manuel Agudo Durán", 331, 1
 n006602, "Nolwenn_Leroy", 355, 1
 n006603, "Nomar_Garciaparra", 291, 1
 n006604, "Nona_Gaye", 201, 1
@@ -6530,12 +6631,14 @@ n006622, "Nursel_Kose", 279, 1
 n006623, "Nurul_Izzah_Anwar", 511, 1
 n006624, "Nushrat_Bharucha", 409, 1
 n006625, "Nyusha", 410, 1
+n006625, "Anna Vladimirovna Shurochkina", 410, 1
 n006626, "Nestor_Kirchner", 371, 0
 n006627, "Nivea_Soares", 227, 1
 n006628, "Nuria_Espert", 248, 1
 n006629, "Nukhet_Duru", 441, 1
 n006630, "O._J._Mayo", 243, 1
 n006631, "Obina", 190, 1
+n006631, "Manuel de Brito Filho better known as Obina", 190, 1
 n006632, "Odilo_Scherer", 295, 1
 n006633, "Oh_Ji-young", 197, 1
 n006634, "Oh_Yoon-ah", 272, 1
@@ -6590,6 +6693,7 @@ n006685, "Omri_Casspi", 357, 1
 n006686, "Ondrej_Sokol", 372, 1
 n006687, "Ondrej_Vetchy", 275, 1
 n006688, "Onew", 511, 1
+n006688, "Lee Jinki", 511, 1
 n006689, "Onur_Kivrak", 369, 1
 n006690, "Ophelie_Winter", 416, 1
 n006691, "Oprah_Winfrey", 481, 1
@@ -6613,6 +6717,7 @@ n006709, "Otto_Sander", 315, 1
 n006710, "Otylia_Jedrzejczak", 530, 1
 n006711, "Oussama_Assaidi", 225, 1
 n006712, "Oviya", 400, 1
+n006712, "Oviya", 400, 1
 n006713, "Owen_Farrell", 491, 1
 n006714, "Owen_Hargreaves", 354, 1
 n006715, "Owen_Hart", 204, 1
@@ -6622,6 +6727,7 @@ n006718, "Ozan_Dogulu", 324, 1
 n006719, "Ozwald_Boateng", 302, 1
 n006720, "Ozzy_Osbourne", 330, 1
 n006721, "P!nk", 454, 1
+n006721, "Alecia Beth Moore", 454, 1
 n006722, "P._Chidambaram", 473, 1
 n006723, "P._T._Usha", 291, 1
 n006724, "P._V._Sindhu", 404, 1
@@ -6808,6 +6914,7 @@ n006906, "Pegah_Ferydoni", 330, 1
 n006907, "Peggy_Lipton", 412, 1
 n006908, "Pelle_Almqvist", 398, 1
 n006909, "Pele", 365, 0
+n006909, "Edson Arantes do Nascimento", 365, 0
 n006910, "Penelope_Ann_Miller", 416, 1
 n006911, "Penelope_Wilton", 419, 1
 n006912, "Penn_Dayton_Badgley", 466, 1
@@ -6953,6 +7060,7 @@ n007054, "Portia_Doubleday", 342, 1
 n007055, "Portia_Simpson-Miller", 333, 1
 n007056, "Potito_Starace", 298, 1
 n007057, "Prabhas", 477, 1
+n007057, "Prabhas", 477, 1
 n007058, "Prahladananda_Swami", 160, 1
 n007059, "Prakash_Javadekar", 437, 1
 n007060, "Pratibha_Patil", 385, 1
@@ -6961,6 +7069,7 @@ n007062, "Preeti_Jhangiani", 369, 1
 n007063, "Preetika_Rao", 289, 1
 n007064, "Preeya_Kalidas", 439, 1
 n007065, "Preslava", 425, 1
+n007065, "Petya Koleva Ivanova", 425, 1
 n007066, "Primoz_Kozmus", 294, 1
 n007067, "Prince_Fielder", 287, 1
 n007068, "Prince_Felix_of_Luxembourg", 291, 0
@@ -6975,6 +7084,7 @@ n007076, "Prithviraj_Sukumaran", 488, 1
 n007077, "Priya_Anand", 445, 1
 n007078, "Priya_Sachdev", 296, 1
 n007079, "Priyamani", 576, 1
+n007079, "Priya Vasudev Mani Iyer", 576, 1
 n007080, "Priyanka_Gandhi", 489, 1
 n007081, "Przemyslaw_Saleta", 497, 1
 n007082, "Przemyslaw_Tyton", 354, 1
@@ -7006,6 +7116,7 @@ n007107, "R._R._Patil", 351, 1
 n007108, "R.A._Dickey", 383, 1
 n007109, "Raageshwari", 443, 1
 n007110, "Raai_Laxmi", 419, 1
+n007111, "Raasi", 290, 1
 n007111, "Raasi", 290, 1
 n007112, "Rabri_Devi", 348, 1
 n007113, "Rachael_Flatt", 215, 1
@@ -7091,10 +7202,13 @@ n007193, "Ram_Charan", 378, 1
 n007194, "Ram_Kapoor", 433, 1
 n007195, "Ram_Pothineni", 476, 1
 n007196, "Rambha", 432, 1
+n007196, "Rambha may refer t", 432, 1
 n007197, "Rambo_Amadeus", 256, 1
 n007198, "Ramdev", 401, 1
+n007198, "Baba Ramdev  pronunciation", 401, 1
 n007199, "Ramesh_Sippy", 467, 1
 n007200, "Ramires", 279, 1
+n007200, "Ramires Santos do Nascimento", 279, 1
 n007201, "Ramon_Sessions", 300, 1
 n007202, "Ramona_Drews", 309, 1
 n007203, "Ramona_Singer", 504, 1
@@ -7132,6 +7246,7 @@ n007234, "Rauf_Aregbesola", 283, 1
 n007235, "Raveena_Tandon", 609, 1
 n007236, "Ravel_Morrison", 394, 1
 n007237, "Raven-Symone", 579, 1
+n007237, "RavenSymoné Christina Pearman", 579, 1
 n007238, "Ravi_Coltrane", 235, 1
 n007239, "Ravichandran_Ashwin", 443, 1
 n007240, "Ray_Mabus", 347, 0
@@ -7240,6 +7355,7 @@ n007343, "Richard_Stallman", 394, 1
 n007344, "Richard_Sulik", 330, 1
 n007345, "Richard_Trumka", 335, 1
 n007346, "Richarlyson", 295, 1
+n007346, "Richarlyson Barbosa Felisbino simply Richarlyson", 295, 1
 n007347, "Richie_Havens", 228, 1
 n007348, "Richie_McCaw", 556, 1
 n007349, "Richie_Porte", 316, 1
@@ -7358,6 +7474,7 @@ n007463, "Robin_Ventura", 232, 1
 n007464, "Robin_Wright", 493, 1
 n007465, "Robin_van_Persie", 530, 1
 n007466, "Robinho", 502, 1
+n007466, "Robson de Souza", 502, 1
 n007467, "Robinson_Cano", 328, 1
 n007468, "Robson_Green", 388, 1
 n007469, "Rocco_DiSpirito", 361, 1
@@ -7381,6 +7498,7 @@ n007486, "Rodrigo_Millar", 267, 1
 n007487, "Rodrigo_Pimpao", 226, 1
 n007488, "Rodrigo_Santoro", 365, 1
 n007489, "Rodrigao", 376, 1
+n007489, "Rodrigo Santana", 376, 1
 n007490, "Roger_Allam", 324, 1
 n007491, "Roger_Cicero", 395, 1
 n007492, "Roger_Donaldson", 214, 1
@@ -7551,6 +7669,7 @@ n007661, "Rudiger_Grube", 490, 1
 n007662, "S._E._Cupp", 274, 1
 n007663, "S._S._Rajamouli", 409, 1
 n007664, "SATOMI", 183, 0
+n007664, "Satomi Ishihara", 183, 0
 n007665, "Saad_Hariri", 417, 1
 n007666, "Saaya_Irie", 324, 1
 n007667, "Sabahat_Akkiraz", 203, 1
@@ -7652,6 +7771,7 @@ n007764, "Sandy_Molling", 249, 1
 n007765, "Sangeeta_Bijlani", 481, 1
 n007767, "Sanjay_Dutt", 421, 1
 n007768, "Sanjjanaa", 465, 1
+n007768, "Archana Galrani", 465, 1
 n007769, "Sanna_Brading", 326, 1
 n007770, "Sanna_Nielsen", 397, 1
 n007771, "Sanne_Salomonsen", 294, 1
@@ -7694,6 +7814,7 @@ n007807, "Saskia_Bartusiak", 358, 1
 n007808, "Saskia_Sassen", 275, 1
 n007809, "Saskia_Valencia", 318, 1
 n007810, "Sathyaraj", 248, 1
+n007810, "Rangaraj Subbaiah", 248, 1
 n007811, "Satoru_Iwata", 261, 1
 n007812, "Saulo_Fernandes", 235, 1
 n007813, "Savannah_Guthrie", 450, 1
@@ -7780,6 +7901,7 @@ n007896, "Semmy_Schilt", 339, 1
 n007897, "Senad_Lulic", 343, 1
 n007899, "Seo_Woo", 283, 1
 n007900, "Seohyun", 432, 0
+n007900, "Seo Juhyun", 432, 0
 n007901, "Sepp_Blatter", 467, 1
 n007902, "Seray_Sever", 303, 1
 n007904, "Serdar_Kesimal", 187, 1
@@ -7858,6 +7980,7 @@ n007980, "Sharon_Osbourne", 520, 1
 n007981, "Sharon_Stone", 600, 1
 n007982, "Sharon_Van_Etten", 258, 1
 n007983, "Sharwanand", 486, 1
+n007983, "Sharwanand Myneni", 486, 1
 n007984, "Shaun_Burgoyne", 337, 1
 n007985, "Shaun_Evans", 319, 1
 n007986, "Shaun_Kenny-Dowall", 350, 1
@@ -7876,6 +7999,7 @@ n007998, "Shay_Given", 456, 1
 n007999, "Shayne_Ward", 505, 1
 n008000, "Shea_Weber", 342, 1
 n008001, "Sheamus", 481, 1
+n008001, "Stephen Farrelly", 481, 1
 n008002, "Sheena_Easton", 291, 1
 n008003, "Sheena_Halili", 364, 0
 n008004, "Sheena_Shahabadi", 394, 1
@@ -7890,6 +8014,7 @@ n008012, "Shelly-Ann_Fraser-Pryce", 359, 1
 n008013, "Shenae_Grimes", 607, 1
 n008014, "Shenaz_Treasurywala", 379, 1
 n008015, "Sheri_Moon_Zombie", 269, 0
+n008016, "Sherihan", 288, 1
 n008016, "Sherihan", 288, 1
 n008017, "Shermine_Shahrivar", 359, 1
 n008018, "Sherri_Coale", 202, 1
@@ -7912,6 +8037,7 @@ n008037, "Shinzo_Abe", 571, 0
 n008038, "Shirin_Ebadi", 446, 1
 n008039, "Shkodran_Mustafi", 409, 1
 n008040, "Shobana", 375, 1
+n008040, "Padma Shri Shobana", 375, 1
 n008041, "Shobhaa_De", 481, 1
 n008042, "Shobna_Gulati", 479, 1
 n008043, "Shonali_Nagrani", 330, 1
@@ -7926,6 +8052,7 @@ n008051, "Shweta_Menon", 380, 1
 n008052, "Shweta_Prasad", 442, 1
 n008053, "Shweta_Tiwari", 434, 1
 n008054, "Shym", 343, 1
+n008054, "Tamara Marthe", 343, 1
 n008055, "Sia_Furler", 323, 1
 n008056, "Sibi_Blazic", 425, 0
 n008057, "Sid_Haig", 292, 1
@@ -7939,6 +8066,7 @@ n008064, "Sigmar_Gabriel", 582, 1
 n008065, "Sigourney_Weaver", 495, 1
 n008066, "Siim_Kallas", 362, 1
 n008067, "Silambarasan", 499, 1
+n008067, "Silambarasan Thesingu Rajendar", 499, 1
 n008068, "Silje_Nergaard", 202, 1
 n008069, "Silke_Bodenbender", 273, 1
 n008070, "Silke_Spiegelburg", 319, 1
@@ -7993,6 +8121,7 @@ n008119, "Smita_Bansal", 341, 1
 n008120, "Smita_Shewale", 138, 1
 n008121, "Smriti_Irani", 405, 1
 n008122, "Sneha", 428, 1
+n008122, "Sneha", 428, 1
 n008123, "SoCal_Val", 359, 1
 n008124, "Sofi_Oksanen", 371, 1
 n008125, "Sofia_Essaidi", 392, 1
@@ -8026,6 +8155,7 @@ n008152, "Sonia_Ferrer", 330, 1
 n008153, "Sonia_Kruger", 427, 1
 n008154, "Sonia_Sotomayor", 395, 1
 n008155, "Sonique", 202, 0
+n008155, "Sonique may refer t", 202, 0
 n008156, "Sonja_Kirchberger", 498, 1
 n008157, "Sonja_Zietlow", 442, 1
 n008158, "Sonu_Nigam", 470, 1
@@ -8056,6 +8186,7 @@ n008183, "Spencer_Pratt", 480, 0
 n008184, "Spike_Mendelsohn", 304, 1
 n008185, "Srecko_Katanec", 291, 1
 n008186, "Sridevi", 589, 1
+n008186, "Sridevi Kapoor", 589, 1
 n008187, "Sridevi_Vijaykumar", 479, 1
 n008188, "Sriya_Reddy", 308, 1
 n008189, "Sruthi_Lakshmi", 293, 1
@@ -8144,7 +8275,9 @@ n008277, "Stockard_Channing", 374, 1
 n008278, "Stomy_Bugsy", 206, 1
 n008279, "Stone_Cold_Steve_Austin", 386, 1
 n008280, "Stoya", 407, 1
+n008280, "Stoya", 407, 1
 n008281, "Stromae", 399, 1
+n008281, "Paul Van Haver", 399, 1
 n008282, "Stuart_Broad", 497, 1
 n008283, "Stuart_Lancaster", 394, 1
 n008284, "Stuart_Pearce", 411, 1
@@ -8154,6 +8287,7 @@ n008287, "Stephane_Lambiel", 451, 1
 n008288, "Stephane_Le_Foll", 487, 1
 n008289, "Stephane_Plaza", 377, 1
 n008290, "Sudeep", 455, 1
+n008290, "Sudeep Sanjeev", 455, 1
 n008291, "Sudeepa_Singh", 271, 1
 n008292, "Sudha_Chandran", 287, 1
 n008293, "Sugar_Ray_Leonard", 443, 1
@@ -8190,8 +8324,10 @@ n008324, "Sushilkumar_Shinde", 435, 1
 n008325, "Susie_Feldman", 288, 0
 n008326, "Susie_Wolff", 390, 1
 n008327, "Suso", 323, 1
+n008327, "Suso or Susso may refer t", 323, 1
 n008328, "Sussanne_Khan", 746, 1
 n008329, "Suswono", 367, 1
+n008329, "Ir H Suswono MMA", 367, 1
 n008330, "Suzann_Pettersen", 358, 1
 n008332, "Suzanne_Shaw", 435, 1
 n008333, "Suzanne_Somers", 505, 1
@@ -8233,6 +8369,7 @@ n008368, "Sumer_Tilmac", 238, 1
 n008369, "Sila_Sahin", 502, 1
 n008370, "Slawomir_Nowak", 363, 1
 n008371, "T-Pain", 336, 1
+n008371, "Faheem Rashad Najm", 336, 1
 n008372, "T._J._Holmes", 227, 1
 n008373, "T._J._Miller", 431, 1
 n008374, "T._R._Knight", 450, 1
@@ -8241,8 +8378,10 @@ n008376, "Tabare_Vazquez", 467, 1
 n008377, "Tadeusz_Cymanski", 253, 1
 n008378, "Tadeusz_Rydzyk", 358, 1
 n008379, "Taeyang", 428, 1
+n008379, "Dong Youngbae", 428, 1
 n008380, "Taika_Waititi", 361, 1
 n008381, "Tajci", 219, 1
+n008381, "Tajči Cameron", 219, 1
 n008382, "Takahisa_Masuda", 495, 1
 n008383, "Takako_Matsu", 350, 1
 n008384, "Takashi_Kashiwabara", 522, 1
@@ -8348,6 +8487,7 @@ n008488, "Thaao_Penghlis", 336, 0
 n008489, "Thabo_Sefolosha", 330, 1
 n008490, "Thaeme_Marioto", 408, 1
 n008491, "Thalia", 392, 1
+n008491, "Thalia Thalía Thaleia or Thalian", 392, 1
 n008492, "Thais_Blume", 238, 1
 n008493, "The_Great_Khali", 317, 1
 n008494, "The_Tallest_Man_on_Earth", 310, 1
@@ -8396,6 +8536,7 @@ n008537, "Thorsten_Fink", 482, 1
 n008538, "Thorsten_Kaye", 307, 1
 n008539, "Thure_Riefenstein", 225, 0
 n008540, "Thastrom", 205, 1
+n008540, "Sven Joachim Eriksson Thåström", 205, 1
 n008541, "Thich_Nhat_Tu", 283, 1
 n008542, "Tia_Bajpai", 323, 1
 n008543, "Tia_Carrere", 530, 1
@@ -8427,6 +8568,7 @@ n008569, "Tina_Maze", 261, 1
 n008570, "Tina_Nordstrom", 333, 1
 n008571, "Tina_Ruland", 376, 1
 n008572, "Tinashe", 493, 1
+n008572, "Tinashe Jorgensen Kachingwe", 493, 1
 n008573, "Tinie_Tempah", 459, 1
 n008574, "Tino_Costa", 334, 1
 n008575, "Tirunesh_Dibaba", 307, 1
@@ -8475,6 +8617,7 @@ n008617, "Tomasz_Adamek", 523, 1
 n008618, "Tomasz_Brzyski", 215, 1
 n008619, "Tomasz_Karolak", 519, 1
 n008620, "Tomatito", 304, 1
+n008620, "José Fernández Torres known as Tomatito", 304, 1
 n008621, "Tomi_Joutsen", 366, 1
 n008622, "Tomislav_Karamarko", 545, 1
 n008623, "Tomislav_Nikolic", 528, 1
@@ -8575,6 +8718,7 @@ n008719, "Tugba_Ozay", 280, 1
 n008720, "Twin_Shadow", 292, 1
 n008721, "Ty_Herndon", 321, 1
 n008722, "Tyga", 433, 1
+n008722, "Micheal Ray Stevenson", 433, 1
 n008723, "Tyger_Drew-Honey", 371, 1
 n008724, "Tygo_Gernandt", 335, 1
 n008725, "Tyler_Hamilton", 276, 1
@@ -8607,6 +8751,7 @@ n008751, "Umberto_Bossi", 475, 1
 n008752, "Umesh_Yadav", 410, 1
 n008753, "Unai_Emery", 465, 1
 n008754, "Undertaker", 308, 1
+n008754, "A funeral director also known as an undertaker", 308, 1
 n008755, "Upasana_Singh", 308, 1
 n008756, "Upeksha_Swarnamali", 313, 1
 n008757, "Urban_Meyer", 462, 1
@@ -8730,9 +8875,11 @@ n008877, "Vida_Guerra", 344, 1
 n008878, "Vida_Samadzai", 296, 1
 n008879, "Vidya_Malvade", 506, 1
 n008880, "Vieirinha", 320, 1
+n008880, "Adelino André Vieira de Freitas", 320, 1
 n008881, "Vijay_Antony", 337, 1
 n008882, "Vijay_Mallya", 480, 1
 n008883, "Vijaya_Nirmala", 370, 1
+n008884, "Vijayakanth", 490, 1
 n008884, "Vijayakanth", 490, 1
 n008885, "Vijender_Singh", 483, 1
 n008886, "Vikki_Blows", 230, 1
@@ -8872,6 +9019,7 @@ n009022, "Wilma_Elles", 399, 1
 n009023, "Wilson_Ramos", 195, 1
 n009024, "Winfried_Schafer", 245, 1
 n009025, "Wisin", 336, 1
+n009025, "Juan Luis Morera Luna", 336, 1
 n009026, "Wojciech_Cejrowski", 363, 1
 n009027, "Wojciech_Fibak", 309, 1
 n009028, "Wojciech_Szczesny", 509, 0
@@ -8894,6 +9042,7 @@ n009044, "Wynton_Marsalis", 326, 1
 n009045, "Wlodzimierz_Karpinski", 313, 1
 n009046, "Xabi_Alonso", 551, 1
 n009047, "Xavi", 501, 1
+n009047, "Xavier Xavi Hernández Creus", 501, 1
 n009048, "Xavier_Bertrand", 500, 1
 n009049, "Xavier_Bettel", 518, 1
 n009050, "Xavier_Malisse", 330, 1
@@ -8909,6 +9058,7 @@ n009059, "Yair_Lapid", 428, 1
 n009060, "Yamila_Diaz-Rahi", 323, 1
 n009061, "Yana_Gupta", 362, 1
 n009062, "Yandel", 304, 1
+n009062, "Llandel Veguilla Malavé", 304, 1
 n009063, "Yang_Jiechi", 405, 1
 n009064, "Yang_Yuanqing", 265, 1
 n009065, "Yani_Tseng", 288, 1
@@ -8928,9 +9078,11 @@ n009078, "Yaya_DaCosta", 405, 1
 n009079, "Yayi_Boni", 362, 1
 n009080, "Yekaterina_Gamova", 203, 1
 n009081, "Yelawolf", 322, 1
+n009081, "Michael Wayne Atha", 322, 1
 n009082, "Yelena_Isinbayeva", 377, 1
 n009083, "Yendi_Phillips", 285, 1
 n009084, "Yesung", 469, 1
+n009084, "Kim Jongwoon", 469, 1
 n009085, "Yevgeniya_Kanayeva", 179, 1
 n009086, "Yevhen_Konoplyanka", 274, 1
 n009087, "Ylva_Johansson", 236, 1
@@ -8950,6 +9102,7 @@ n009101, "Yona_Magalhaes", 240, 1
 n009102, "Yoo_Chang-hyun", 296, 1
 n009103, "Yoo_In-na", 538, 1
 n009104, "Yoochun", 429, 1
+n009104, "Park Yoochun", 429, 1
 n009105, "Yoon_Sang-hyun", 326, 1
 n009106, "Yoshihiko_Noda", 370, 1
 n009107, "Yoshikatsu_Kawaguchi", 139, 1
@@ -8970,6 +9123,7 @@ n009121, "Yukiya_Amano", 475, 1
 n009122, "Yukta_Mookhey", 452, 1
 n009123, "Yulia_Volkova", 488, 0
 n009124, "Yunho", 375, 1
+n009124, "Jung Yunho", 375, 1
 n009125, "Yunjin_Kim", 371, 1
 n009126, "Yura_Movsisyan", 343, 1
 n009127, "Yuri_Ebihara", 391, 1
@@ -9016,6 +9170,7 @@ n009168, "Zdenka_Predna", 256, 1
 n009169, "Zdenek_Troska", 352, 1
 n009170, "Zdenek_Zeman", 374, 1
 n009171, "Zendaya", 610, 1
+n009171, "Zendaya Maree Stoermer Coleman", 610, 1
 n009172, "Zeynep_Sever", 285, 1
 n009173, "Zhang_Dejiang", 289, 1
 n009174, "Zhang_Jingchu", 390, 1
@@ -9057,6 +9212,7 @@ n009211, "Ze_Castro", 234, 1
 n009212, "Ze_Roberto", 390, 1
 n009213, "Zelia_Duncan", 330, 0
 n009214, "apl.de.ap", 295, 1
+n009214, "Allan Pineda Lindo", 295, 1
 n009215, "Alex_Corretja", 366, 1
 n009216, "Astrid_Berges-Frisbey", 480, 1
 n009217, "Alex_Lora", 367, 1
@@ -9116,11 +9272,12 @@ n009270, "Sarka_Vankova", 295, 1
 n009271, "Zeljko_Obradovic", 480, 1
 n009272, "Zydrunas_Savickas", 405, 1
 n009273, "Natalia_Mogilevskaya", 398, 1
-n009274, "Yao-Wei_Sun.", 196, 1
+n009274, "Yaowei_Sun", 196, 1
 n009275, "Kiyoshi_Miyamoto", 501, 1
 n009276, "Tomoko_Matsui", 177, 1
 n009277, "Kobe_Ranuko", 409, 1
 n009278, "Hiromi", 181, 1
+n009278, "Hiromi_Uehara", 181, 1
 n009279, "Noriko_Baba", 365, 1
 n009283, "Jackie_Chan", 296, 0
 n009285, "Pei-pei_Cheng", 179, 0

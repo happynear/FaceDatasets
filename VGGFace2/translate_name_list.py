@@ -58,6 +58,7 @@ if __name__ == '__main__':
         for row in spamreader:
             name = row[1].strip()[1:-1]
             if name == 'am':
+                file.write(','.join(row) + '\n')
                 continue
             if not check_english(name):
                 # If half of the names are regular English characters, see it as an accent.
