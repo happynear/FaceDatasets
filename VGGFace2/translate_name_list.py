@@ -1,7 +1,16 @@
+'''
+Translate the names in VGGFace2 dataset into English.
+You will need to manually install the following libararies:
+unidecode
+googletrans
+wikiapi
+
+author: Feng Wang (UESTC)
+'''
 import os
 import csv
-import unidecode
 import string
+import unidecode
 from googletrans import Translator
 translator = Translator()
 from wikiapi import WikiApi
