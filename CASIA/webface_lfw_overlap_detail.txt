@@ -1,0 +1,18 @@
+webface_id, webface_name, lfw_name
+0000513, William_H._Macy(William Hall Macy Jr), William_Macy
+0004539, Vanessa_Williams, Vanessa_Williams
+0004763, Mary_J._Blige(Mary Jane Blige), Mary_Blige
+0005009, Laura_Harring, Laura_Elena_Harring
+0005082, David_E._Kelley(David Edward Kelley), David_Kelley
+0005172, Norm_MacDonald, Norm_Macdonald
+0166921, Hillary_Clinton, Hillary_Clinton
+0208962, Wanda_De_Jesus, Wanda_de_la_Jesus
+0430107, Michael_B._Jordan(Michael Bakari Jordan), Michael_Jordan
+0662519, Nicole_Ari_Parker, Nicole_Parker
+0955471, Ziyi_Zhang, Zhang_Ziyi
+1056413, Prince_William, Prince_William
+1091782, Ye_Liu, Liu_Ye
+1193098, Randy_Jackson, Randy_Jackson
+1303492, Jesse_James, Jesse_James
+2425974, John_Clint_Mabry, John_Mabry
+3478560, Richard_A._Cohen(Richard A Cohen), Richard_Cohen
