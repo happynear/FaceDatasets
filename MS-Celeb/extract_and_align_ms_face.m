@@ -51,11 +51,8 @@ faces=cell(0);
 while ~feof(tsv_fid)
     line = fgetl(tsv_fid);%MID,EntityNameString,ImageURL,FaceID,FaceRectangle_Base64Encoded,FaceData_Base64Encoded
     image_id = image_id + 1;
-    if image_id < 5000000
-        if mod(image_id, 100000)==0
-            disp(image_id);
-        end;
-        continue;
+    if mod(image_id, 100000)==0
+        disp(image_id);
     end;
     C = strsplit(line,'\t');
     folder = fullfile(root_folder,C{1});
